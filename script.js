@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/expenses";
+const API_URL = "https://personal-w9yq.onrender.com/api/expenses";
 
 const expenseForm = document.getElementById("expenseForm");
 const expenseTable = document.getElementById("expenseTable");
